@@ -51,7 +51,7 @@
     "@quasar/ssl-certificate": "^1.0.0",
     "@quasar/ssr-helpers": "3.0.1",
     "@rollup/pluginutils": "^5.0.4",
-    "@types/chrome": "^0.0.245",
+    "@types/chrome": "^0.0.259",
     "@types/compression": "^1.7.2",
     "@types/cordova": "^11.0.1",
     "@types/express": "^4.17.13",
