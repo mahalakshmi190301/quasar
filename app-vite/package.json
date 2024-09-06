@@ -70,7 +70,7 @@
     "fast-glob": "3.3.1",
     "fs-extra": "^11.1.0",
     "html-minifier": "^4.0.0",
-    "http-proxy-middleware": "^2.0.6",
+    "http-proxy-middleware": "^3.0.1",
     "inquirer": "^9.2.11",
     "isbinaryfile": "^5.0.0",
     "kolorist": "^1.5.1",
