@@ -59,7 +59,7 @@
     "archiver": "^6.0.1",
     "chokidar": "^3.5.3",
     "ci-info": "^3.7.1",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "cross-spawn": "^7.0.3",
     "dot-prop": "8.0.2",
     "dotenv": "^16.3.1",
