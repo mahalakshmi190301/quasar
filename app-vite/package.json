@@ -74,7 +74,7 @@
     "inquirer": "^9.2.11",
     "isbinaryfile": "^5.0.0",
     "kolorist": "^1.5.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "minimist": "^1.2.6",
     "open": "^9.1.0",
     "register-service-worker": "^1.7.2",
